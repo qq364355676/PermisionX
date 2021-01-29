@@ -1,4 +1,4 @@
-package com.permisionx.app
+package com.permissionx.app
 
 import org.junit.Test
 
